@@ -6,7 +6,7 @@
 package "httpd"
 
 file '/var/www/html/index.html' do
-  content "ILC!"
+  content "ILCx!"
 end
 
 service 'httpd' do
