@@ -6,7 +6,7 @@
 package "httpd"
 
 file '/var/www/html/index.html' do
-  content "I don\'t know"
+  content "Meooowwwwwwww"
 end
 
 service 'httpd' do
